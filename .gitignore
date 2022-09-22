@@ -1,0 +1,5 @@
+env/
+.dbdata/
+__pycache__/*
+admin/admin/__pycache__/
+
